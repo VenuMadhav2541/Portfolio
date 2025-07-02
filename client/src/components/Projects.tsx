@@ -20,8 +20,8 @@ const Projects: React.FC = () => {
       description: "Architected and deployed a full-stack calendar application for 500+ users using ReactJS, Node.js, and MongoDB. Integrated JWT-based role-based access control and drag-and-drop calendar UI for real-time scheduling.",
       icon: "fas fa-calendar-alt",
       gradient: "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-      githubLink: "https://github.com/VenuMadhav2541",
-      demoLink: "#"
+      githubLink: "https://github.com/VenuMadhav2541/Calendar_Application",
+      demoLink: "https://calendarapplication1.netlify.app/"
     },
     {
       title: "3D Portfolio Website",
@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
       icon: "fas fa-code",
       gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       githubLink: "https://github.com/VenuMadhav2541",
-      demoLink: "#"
+      demoLink: "https://venumadhavbandarupalli.netlify.app/"
     }
   ];
 

@@ -29,7 +29,7 @@ const Navigation: React.FC = () => {
 
   return (
     <nav className="navbar" style={{
-      background: scrolled ? 'rgba(255, 255, 255, 0.98)' : 'rgba(255, 255, 255, 0.95)',
+      background: scrolled ? '#EDE8F5' : '#EDE8F5',
       boxShadow: scrolled ? '0 10px 15px -3px rgba(0, 0, 0, 0.1)' : '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
     }}>
       <div className="nav-container">
