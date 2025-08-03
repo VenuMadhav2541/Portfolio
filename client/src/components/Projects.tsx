@@ -30,7 +30,16 @@ const Projects: React.FC = () => {
       icon: "fas fa-code",
       gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       githubLink: "https://github.com/VenuMadhav2541",
-      demoLink: "https://venumadhavbandarupalli.netlify.app/"
+      demoLink: "https://portfolio-mvtc.onrender.com/"
+    },
+    {
+      title: "Smart To Do List",
+      tech: ["React", "Three.js", "Artificial Intelligence", "CSS3", "LLM"],
+      description: "The To-Do List is a simple and efficient task management web application that allows users to keep track of their daily tasks and stay organized. It provides a user-friendly interface where users can add, edit, delete, and mark tasks as completed. The project emphasizes productivity and minimalism, making it ideal for personal task management.",
+      icon: "fas fa-list",
+      gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      githubLink: "https://github.com/VenuMadhav2541",
+      demoLink: "https://github.com/VenuMadhav2541/ToDoList"
     }
   ];
 
